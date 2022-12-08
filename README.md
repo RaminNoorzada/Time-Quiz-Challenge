@@ -39,3 +39,10 @@ The following animation demonstrates the application functionality:
 
 ![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.](./Assets/04-web-apis-homework-demo.gif)
 
+
+##Page functionality Screenshot.
+![Capture](https://user-images.githubusercontent.com/87600341/206417247-f1442901-e673-4e6f-b840-568f33ad68f2.JPG)
+![Capture 2](https://user-images.githubusercontent.com/87600341/206417250-e833ce66-f813-47c8-b308-49bf5a371cee.JPG)
+![Capture 3](https://user-images.githubusercontent.com/87600341/206417252-180c6447-f8bb-4d99-a2ef-9c57f190041d.JPG)
+
+
