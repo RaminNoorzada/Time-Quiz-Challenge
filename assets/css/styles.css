@@ -1,39 +1,43 @@
   /*Body font- family change to Tims new roman*/
   body {
-    background-color: rgb(186, 200, 184);
+    background-color: rgb(244, 244, 244);
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 120%;
   }
-    /*Hover Botton and color changed to green and blue*/
+    
   a {
-    color: #1e5e27;
+    color: #181a18;
     text-decoration: initial;
     transition: color 0.1s;
+    
   }
   
   a:hover {
-    color: #1e5e27;
+    color: #316938;
   }
      
   button {
-    display: list-item;
+    display: block;
     margin: 5px;
     cursor: pointer;
     font-size: 100%;
-    background-color: #1e5e27;
+    background-color: #238877;
     border-radius: 5px;
     padding: 2px 10px;
     color: white;
     border: 0;
-    transition: background-color 0.1s;
+    transition: background-color 0.4s;
+    width: 20%;
+    text-align: left;
   }
     /*Color changed to blue*/
   button:hover {
-    background-color: #1d4b91;
+    background-color: #1253e9;
   }
   
   .choices button {
     display: block;
+    width: 40%;
   }
   
   input[type="text"] {
