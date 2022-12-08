@@ -1,4 +1,4 @@
-# 04 Web APIs: Code Quiz
+# Time-Quiz-Challenge
 
 ## Your Task
 
